@@ -4,10 +4,6 @@
   },
   "rewrites": [
     {
-      "source": "/",
-      "destination": "https://typefully-git-cooldown-image-editor-mailbrew.vercel.app/tweetpics/"
-    },
-    {
       "source": "/:match*",
       "destination": "https://typefully-git-cooldown-image-editor-mailbrew.vercel.app/:match*"
     }
