@@ -5,11 +5,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://typefully-git-cooldown-image-editor-mailbrew.vercel.app/tweetpics/"
+      "destination": "https://typefully.com/tweetpics/"
     },
     {
       "source": "/:match*",
-      "destination": "https://typefully-git-cooldown-image-editor-mailbrew.vercel.app/:match*"
+      "destination": "https://typefully.com/:match*"
     }
   ]
 }
